@@ -1,4 +1,5 @@
-# This program calculates the sum of lower and upper spiral of the given matrix
+# This program displays the elements of lower and upper spiral of the given matrix.
+# Also calculates the sum for each condition (for verification)
 
 import numpy as np
 
